@@ -6,4 +6,4 @@
 int n
 double d
 
-d += d + (double)n
+d = d + (double)n
